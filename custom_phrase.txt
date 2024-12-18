@@ -62,3 +62,10 @@ gone	gone
 Go程	gocheng
 code	code
 SOHO	soho
+
+wentaoding@link.cuhk.edu.cn	vmail	3
+220049024@link.cuhk.edu.cn	vmail	2
+wtding1998@gmail.com	vmail	1
+Wentao Ding	vna	3
+Wentao	vna	2
+220049024	vid

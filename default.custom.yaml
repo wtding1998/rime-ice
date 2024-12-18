@@ -1,0 +1,14 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.16.3
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Wed Dec 18 21:30:00 2024"
+  rime_version: 1.11.2
+patch:
+  "key_binder/bindings/+":
+    - {accept: 8, send: Page_Up, when: has_menu}
+    - {accept: 7, send: Page_Down, when: has_menu}
+    - {accept: "Control+g", send: Escape, when: composing}
+  schema_list:
+    - {schema: rime_ice}
+    - {schema: luna_pinyin_simp}

@@ -1,0 +1,15 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.16.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Wed Dec 18 21:30:24 2024"
+  rime_version: 1.11.2
+patch:
+  "style/color_scheme": aqua
+  "style/horizontal": false
+  "style/font_point": 12
+  "style/label_font_point": 12
+  "style/comment_font_point": 11
+  "style/layout/candidate_spacing": 4
+  "style/layout/hilite_spacing": 4
+  "style/layout/hilite_padding": 6

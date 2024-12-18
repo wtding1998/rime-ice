@@ -1,0 +1,5 @@
+patch:
+  preset_color_schemes/purity_of_form_custom/font_point: 16
+  preset_color_schemes/purity_of_form_custom/label_font_point: 13
+  preset_color_schemes/purity_of_form_custom/corner_radius: 8
+  preset_color_schemes/purity_of_form_custom/line_spacing: 3
